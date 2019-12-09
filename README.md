@@ -1,0 +1,2 @@
+# sdwExeShortCut
+Make .exe shortcut
